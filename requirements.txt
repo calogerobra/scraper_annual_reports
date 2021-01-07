@@ -1,0 +1,14 @@
+Paths to set:
+-path to repo for exported Excel and CSV file
+-path to repo with input Excel file containing search symbols with firm names
+
+Python packages:
+-datetime
+-requests
+-random
+-pandas
+-bs4
+-time
+-csv
+-shutil
+-os
